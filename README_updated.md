@@ -1,37 +1,63 @@
 
-# مدرسة التضامن الثانوية بنات
+# مدرسة التضامن الثانوية بنات | Al-Tadamun Girls' Secondary School
 
-## نبذة عن المشروع
+## مقدمة | Introduction
 
-تم إنشاء هذا المشروع بهدف تسليط الضوء على مدرسة التضامن الثانوية للبنات، الواقعة في الأحياء الشرقية لمدينة الضعين. المدرسة تأسست في عام 2021 بجهود محلية، وهي المدرسة الثانوية الوحيدة في هذه المنطقة.
+**مدرسة التضامن الثانوية بنات** هي المدرسة الوحيدة الواقعة في الأحياء الشرقية لمدينة الضعين، وقد تأسست في عام 2021 بجهود محلية.
 
-## أهمية المدرسة
-
-مدرسة التضامن هي المدرسة الوحيدة التي تقع في الأحياء الشرقية لمدينة الضعين، وتكتسب أهمية كبرى في ظل الظروف الصعبة التي تمر بها البلاد حاليًا. بسبب عدم توفر المرتبات، تم إغلاق الكثير من المدارس في تلك البقعة، مما يجعل وجود هذه المدرسة واستمرارها ضرورة قصوى للطالبات في المنطقة.
-
-## أهداف المشروع
-
-- نشر معلومات عن المدرسة وسيرتها بين الناس داخل وخارج الضعين.
-- عرض التحديات التي تواجه المدرسة للحصول على دعم مجتمعي ومؤسسي.
-- دعم المعلمين الذين يعملون حالياً بدون رواتب.
-- إظهار النشاطات المختلفة داخل المدرسة مثل:
-  - الألعاب الرياضية
-  - الاهتمام بالمواهب الفنية
-
-## التحديات الحالية
-
-- نقص في البنية التحتية والخدمات الأساسية.
-- الحاجة إلى دعم لتطوير المدرسة (تثوير المدرسة وتجهيزاتها).
-- غياب الرواتب للمعلمين رغم تميزهم ومساهمتهم الكبيرة في العملية التعليمية.
-- إغلاق العديد من المدارس في المنطقة بسبب الأوضاع الاقتصادية، مما يضاعف العبء على هذه المدرسة.
-
-## دعوة للدعم
-
-نحن نؤمن بأن التعليم هو أساس التنمية، ودعم هذه المدرسة سيساهم في خلق بيئة تعليمية آمنة ومزدهرة لبناتنا. نسعد بأي مساهمة أو شراكة من أفراد أو جهات تدعم التعليم في المناطق الأقل حظًا.
+**Al-Tadamun Girls' Secondary School** is the only school located in the eastern neighborhoods of Al-Daein city, founded in 2021 through local community efforts.
 
 ---
 
-**للتواصل والدعم:**  
-altdamnmdrsh@gmail.com
+## هدف المشروع | Project Purpose
 
-**مدرسة التضامن الثانوية بنات - الضعين**
+يهدف هذا المشروع إلى نشر معلومات عن المدرسة بين سكان مدينة الضعين والسعي للحصول على دعم لتطوير المدرسة واستمرارها. تواجه المدرسة حالياً عدة تحديات منها نقص في البنية التحتية وعدم توفر التمويل.
+
+This project aims to raise awareness about the school among the residents of Al-Daein and to seek support for its development and sustainability. The school is currently facing multiple challenges, including the lack of proper infrastructure and funding.
+
+---
+
+## عن المدرسة | About the School
+
+- **تاريخ التأسيس | Established:** 2021  
+- **الموقع | Location:** بحي التضامن جنوب التأمين الصحي في المدينة الضعين، السودان | Eastern neighborhoods of Al-Daein, Sudan  
+- **المعلمين | Teachers:** معلمون مؤهلون ومتميزون يعملون حالياً بدون رواتب | Highly qualified and committed, currently working without salaries  
+- **نوع المدرسة | School Type:** مدرسة ثانوية للبنات | Secondary school for girls  
+- **الدور المجتمعي | Community Role:** المدرسة الوحيدة في الجهة الشرقية، وتزداد أهميتها في ظل إغلاق الكثير من المدارس نتيجة للأزمة التي تمر بها البلاد.  
+**The only school in the eastern region, especially important given the current national crisis and widespread closure of schools in the area.**
+
+---
+
+## الأنشطة والاهتمام بالمواهب | Activities and Talents
+
+توفر المدرسة فرصاً للطالبات للمشاركة في:
+- الأنشطة الرياضية  
+- الأنشطة الفنية والإبداعية  
+- تنمية المواهب والمنافسات  
+
+The school provides opportunities for students to engage in:
+- Sports and physical education  
+- Artistic and creative activities  
+- Talent development and competitions
+
+---
+
+## احتياجاتنا | Our Needs
+
+نحن نبحث عن دعم يشمل:
+- تحسين البنية التحتية (مثل مباني المدرسة والمواد التعليمية)  
+- دعم المعلمين برواتب أو حوافز  
+- رعاية الأنشطة والبرامج الطلابية  
+
+We are seeking support in the form of:
+- Infrastructure improvement (e.g., school building, learning materials)  
+- Teacher support and stipends  
+- Sponsorship of student activities and programs
+
+---
+
+## تواصل معنا | Contact
+
+إذا كنت ترغب في تقديم الدعم أو معرفة المزيد، يرجى التواصل معنا:  
+**Email:** altdamnmdrsh@gmail.com
+
